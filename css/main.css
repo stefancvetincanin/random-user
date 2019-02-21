@@ -1,0 +1,27 @@
+.user-style {
+    background-image: linear-gradient(to right, lightgrey, aquamarine);
+    padding: 5px;
+    /* overflow: hidden; */
+    border-top: 1px solid black;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px grey;
+	text-transform: capitalize;
+}
+
+.user-style img {
+    border-radius: 5px;
+    border: 1px solid navy;
+    float: right;
+}
+
+.user-style img:hover {
+    filter: sepia(0.8);
+}
+
+/* .users {
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+} */
+
